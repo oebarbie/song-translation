@@ -1,5 +1,5 @@
-**One day in spring, it was gym class**
-**That was the only class Shane passed**
+One day in spring, it was gym class
+That was the only class Shane passed
 
 В один весенний день был урок физкультуры,
 Это был единственный урок, который Шейну удавался.
