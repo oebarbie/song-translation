@@ -1,0 +1,77 @@
+### **"If you give enough"**    
+--------------------------------------
+
+**_I moved so quickly I thought I knew nothing  
+But what I had known all along  
+To be true in this plane  
+I was a baby born bound to all limits of  
+Children whose blindness is taken for sight 
+All the same_**  
+
+Я двигался так быстро, что думал, что ничего не знаю,  
+Но то, что я знал всё это время,  
+Чтобы быть настоящим в этой плоскости,  
+Я был ребёнком, привязанным ко всем ограничениям,  
+Дети, чья слепота принимается за зрение,  
+Такие же    
+
+**_You really think they can hold you  
+Don't listen to what they told you  
+Your life's only good as love  
+If you give enough_**  
+
+Ты серьёзно думаешь, что они могут удержать тебя,  
+Не слушай то, что они тебе сказали,  
+Тебе будет хорошо житься,  
+Только если ты будешь достаточно отдавать любви  
+
+**_You wake up shaking from money you're making  
+Just wondering when will the day be that you  
+Lose it all  
+You've been astounded by dollars compounded  
+So much so that your sense of self has been shrunk  
+Very small_**  
+
+Вы просыпаетесь, дрожа от денег, что вы получиаете,  
+Просто интересно, когда наступит день,  
+Когда вы всё потеряете.  
+Вы были поражены суммой долларов,  
+Так сильно, что ваше ЧСВ понизилось  
+Намного  
+
+**_You really think that can save you  
+That which was made to enslave you  
+Your life's only good as love  
+If you give enough_**  
+    
+Вы серьёзно думате, что сможете спасти себя,  
+То, что было создано, чтобы поработить вас,  
+Тебе будет хорошо житься,  
+Только если ты будешь достаточно отдавать любви  
+    
+**_Ah-ah-ah-aaaah  
+Ah-ah-ah-aaaah_**  
+
+Ах ах ах ах  
+Ах ах ах ах  
+
+**_You really think they can hold you  
+Oh, please don't let them destroy you  
+Your life's only good as love  
+If you give enough_**  
+
+Ты серьёзно думаешь, что они смогут удержать тебя,  
+О, пожалуйста, не дай им уничтожить тебя,  
+Тебе будет хорошо житься,  
+Только если ты будешь достаточно отдавать любви  
+
+> **_What have the artists said about the song?_**  
+  I know Michael suggested using [a theremin](https://en.wikipedia.org/wiki/Theremin) for the line in the middle.  
+The string arrangement is sort of half Randy Newman with it mirroring the piano  
+part and half [“A Little Night Music”](https://en.wikipedia.org/wiki/A_Little_Night_Music) with some of the more atonal lines in the second verse.  
+This is one that I feel is as applicable outside of the story as it is in the story.  
+It’s about the boundless power of love and recognizing the futility of materialistic desire.  
+
+> **_Что артисты сказали о песне?_**  
+  Знаю, что Михаил предложил использовать [терменвокс](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D0%B2%D0%BE%D0%BA%D1%81) для строки посередине. [Струнная аранжировка](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BD%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0) это наполовину Рэнди Ньюмен с зеркальным отражением фортепианной партии и наполовину  “Немного ночной музыки” (мюзикл) с некоторыми более [атональными](https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C) строками во втором куплете. Эта песня, по-моему, применима как и вне истории, так и в истории. Она о безграничной силе любви и признании бессмысленности материалистических желаний.
+  
