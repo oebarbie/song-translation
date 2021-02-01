@@ -1,5 +1,5 @@
 #   LEMON TWIGS
-## [:gem:home](https://januarythirtyfirst.github.io/TranslateSongs/)
+## [home](https://januarythirtyfirst.github.io/TranslateSongs/)
 ## [lemon twigs / go to school](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/GoToSchool_main)  
 [№1 - "Never In My Arms, Always In My Heart"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/001.%20NeverInMyArmsAlwaysInMyHeart)  
 [№2 - "The Student Becomes The Teacher"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/002.%20TheStudentBecomesTheTeacher)  
