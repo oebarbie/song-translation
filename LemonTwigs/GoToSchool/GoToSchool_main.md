@@ -5,7 +5,7 @@
 [№2 - "The Student Becomes The Teacher"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/002.%20TheStudentBecomesTheTeacher)  
 [№3 - "Rock Dreams"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/003.%20RockDreams)  
 [№4 - "The Lesson"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/004.%20Lesson)  
-[№5 - "Small Victories"]  
+[№5 - "Small Victories"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/005.%20SmallVictories)  
 [№6 - "Wonderin' Ways"]  
 [№7 - "The Bully"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/007.%20TheBully)    
 [№8 - "Lonely"]  
