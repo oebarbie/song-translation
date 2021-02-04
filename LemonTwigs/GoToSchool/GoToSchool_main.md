@@ -8,7 +8,7 @@
 [№5 - "Small Victories"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/005.%20SmallVictories)  
 [№6 - "Wonderin' Ways"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/006.%20WonderinWays)
 [№7 - "The Bully"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/007.%20TheBully)    
-[№8 - "Lonely"]  
+[№8 - "Lonely"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/008.%20Lonely)  
 [№9 - "Queen Of My School"]  
 [№10 - "Never Know"]  
 [!!!!!!!!!!!!!!!!№11 - "Born Wrong/Heart Song"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/011.%20BornWrongHeartSong)  
