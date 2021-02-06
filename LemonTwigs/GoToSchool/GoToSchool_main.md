@@ -9,7 +9,7 @@
 [№6 - "Wonderin' Ways"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/006.%20WonderinWays)
 [№7 - "The Bully"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/007.%20TheBully)    
 [№8 - "Lonely"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/008.%20Lonely)  
-[№9 - "Queen Of My School"]  
+[№9 - "Queen Of My School"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/009.%20QueenOfMySchool)  
 [№10 - "Never Know"]  
 [!!!!!!!!!!!!!!!!№11 - "Born Wrong/Heart Song"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/011.%20BornWrongHeartSong)  
 [!!!!!!!!!!!!!!!!№12 - "The Fire"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/012.%20Fire)  
