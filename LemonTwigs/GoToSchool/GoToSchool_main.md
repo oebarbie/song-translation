@@ -6,7 +6,7 @@
 [№3 - "Rock Dreams"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/003.%20RockDreams)  
 [№4 - "The Lesson"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/004.%20Lesson)  
 [№5 - "Small Victories"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/005.%20SmallVictories)  
-[№6 - "Wonderin' Ways"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/006.%20WonderinWays)
+[№6 - "Wonderin' Ways"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/006.%20WonderinWays)  
 [№7 - "The Bully"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/007.%20TheBully)    
 [№8 - "Lonely"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/008.%20Lonely)  
 [№9 - "Queen Of My School"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/009.%20QueenOfMySchool)  
