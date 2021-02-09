@@ -8,7 +8,7 @@ search_enabled: true
 # Aux links for the upper right navigation  
 
 aux_links:
-  "tools - code":
+  "code":
     - "https://github.com/januarythirtyfirst/TranslateSongs"  
     
 # Makes Aux links open in a new tab. Default is false  
