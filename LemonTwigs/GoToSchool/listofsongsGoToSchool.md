@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Go To School
-nav_order: 3   
+nav_order: 1   
 parent: The Lemon Twigs
-has_children: true
-has_toc: true  
+has_children: true 
 ---  
 
 <p align="right">
