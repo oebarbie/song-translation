@@ -14,9 +14,3 @@ Lemon Twigs / Go To School
 002. Do Hollywood  
 003. Go To School  
 004. Songs For the General Public  
-
-
-<p><span style="color: red; font-size: 2em">L</span>orem ipsum dolor 
-  sit amet, consectetuer adipiscing elit, sed diem nonummy nibh euismod tincidunt 
-  ut lacreet dolore magna aliguam erat volutpat.
-</p>
