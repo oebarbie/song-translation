@@ -2,7 +2,6 @@
 layout: default  
 title: The Lemon Twigs  
 nav_order: 1  
-parent: bands  
 has_children: true     
 ---  
 
