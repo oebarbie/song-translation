@@ -9,7 +9,7 @@ search_enabled: true
 
 aux_links:
   "tools - code":
-    - "https://github.com/januarythirtyfirst/tools"  
+    - "https://github.com/januarythirtyfirst/TranslateSongs"  
     
 # Makes Aux links open in a new tab. Default is false  
 
