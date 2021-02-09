@@ -14,7 +14,7 @@ has_toc: false
 
 ![Go To School](../../img/coverGoToSchool.jpg)
 
-[lemon twigs / go to school](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/GoToSchool_main)  
+Lemon Twigs / Go To School
 [№001 - "Never In My Arms, Always In My Heart"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/001.%20NeverInMyArmsAlwaysInMyHeart)  
 [№002 - "The Student Becomes The Teacher"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/002.%20TheStudentBecomesTheTeacher)  
 [№003 - "Rock Dreams"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/003.%20RockDreams)  
