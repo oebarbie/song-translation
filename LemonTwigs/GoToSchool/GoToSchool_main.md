@@ -7,7 +7,7 @@ parent: The Lemon Twigs
 has_children: true
 has_toc: false  
 ---  
-
+![](/img/coverGoToSchool.jpg)
 ## [lemon twigs / go to school](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/GoToSchool_main)  
 [№001 - "Never In My Arms, Always In My Heart"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/001.%20NeverInMyArmsAlwaysInMyHeart)  
 [№002 - "The Student Becomes The Teacher"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/002.%20TheStudentBecomesTheTeacher)  
