@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Go To School
-nav_order: 3  
-grand_parent: bands  
+nav_order: 3   
 parent: The Lemon Twigs
 has_children: true
 has_toc: false  
