@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Albom: Go To School
-# nav_order: 1   
+nav_order: 1   
 parent: The Lemon Twigs
 has_children: true 
 ---  
