@@ -7,7 +7,7 @@ has_children: true
 ---  
 
 <p align="center">
-<img alt="Go To School" src="https://github.com/januarythirtyfirst/TranslateSongs/img/coverGoToSchool.jpg"> 
+<img alt="Go To School" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/eooeo-patch-1/img/coverGoToSchool.jpg?raw=true"> 
 <br>
 Lemon Twigs / Go To School   
 </p> 
