@@ -1,10 +1,9 @@
----
+---  
 layout: default  
-title: Never   
+title: Never in My Arms, Always in My Heart  
 nav_order: 1  
 parent: Go to School  
 grand_parent: The Lemon Twigs  
-has_children: true  
 ---  
 
 Never in My Arms, Always in My Heart
