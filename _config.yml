@@ -1,6 +1,6 @@
 #Main rules
 
-title: "Translate Songs"
+title: "translate songs"
 remote_theme: pmarsceill/just-the-docs  
 color_scheme: "light"
 search_enabled: true    
@@ -14,7 +14,3 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false  
 
 aux_links_new_tab: true   
-
-# does not working?
-back_to_top: true
-back_to_top_text: "Back to top"  
