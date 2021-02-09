@@ -9,10 +9,10 @@ has_toc: false
 ---  
 
 <p align="top">
-   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/januarythirtyfirst/tools">
+   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/januarythirtyfirst/translatesongs">
 </p>  
 
-![GoToSchool](/img/coverGoToSchool.jpg)  
+![GoToSchool](../img/coverGoToSchool.jpg)  
 
 ## [lemon twigs / go to school](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/GoToSchool_main)  
 [№001 - "Never In My Arms, Always In My Heart"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/001.%20NeverInMyArmsAlwaysInMyHeart)  
