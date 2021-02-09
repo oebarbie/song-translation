@@ -10,7 +10,7 @@ has_children: true
    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/januarythirtyfirst/translatesongs">
 </p>  
 
-![Go To School](../../img/coverGoToSchool.jpg)
+![Go To School](img/coverGoToSchool.jpg)
 
 Lemon Twigs / Go To School   
 [№001 - "Never In My Arms, Always In My Heart"](https://januarythirtyfirst.github.io/TranslateSongs/LemonTwigs/GoToSchool/NeverInMyArmsAlwaysInMyHeart)  
