@@ -1,16 +1,13 @@
 #Main rules
-
 title: "translate songs"
 remote_theme: pmarsceill/just-the-docs  
 color_scheme: "light"
 search_enabled: true    
 
 # Aux links for the upper right navigation  
-
 aux_links:
   "code":
     - "https://github.com/januarythirtyfirst/TranslateSongs"  
     
-# Makes Aux links open in a new tab. Default is false  
-
+# Makes Aux links open in a new tab.
 aux_links_new_tab: true   
