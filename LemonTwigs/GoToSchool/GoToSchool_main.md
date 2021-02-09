@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Go To School
 nav_order: 3  
 parent: The Lemon Twigs
 grand_parent: bands  
