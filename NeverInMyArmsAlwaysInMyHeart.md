@@ -2,8 +2,8 @@
 layout: default  
 title: Never in My Arms, Always in My Heart  
 nav_order: 1  
-# parent: Go to School  
-# grand_parent: The Lemon Twigs  
+parent: Albom: Go to School  
+grand_parent: The Lemon Twigs  
 ---  
 
 Never in My Arms, Always in My Heart
