@@ -5,9 +5,7 @@ nav_order: 1
 has_children: true     
 ---  
 <p align="center">
-<img alt="Go To School" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/eooeo-patch-1/img/photoLemonTwigs.jpg?raw=true"> 
-<br>
-Lemon Twigs / Go To School   
+<img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs.jpg?raw=true"> 
 </p> 
 
 001. What We Know 
