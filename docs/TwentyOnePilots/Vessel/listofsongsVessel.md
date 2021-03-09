@@ -9,7 +9,7 @@ has_children: true
 <p align="center">
 <img alt="Vessel" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverVessel.jpg?raw=true"> 
 </p>
-()
+
 > **Альбом [Twenty one pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots) "Vessel"**  - это их первый альбом, выпущенный на лейбле Fueled By Ramen. Альбом содержит треки, перезаписанные с их предыдущего альбома [Regional at Best](https://twentyonepilots.fandom.com/wiki/Regional_at_Best).
 
 > **На одном интервью Джош рассказал о значении названия альбома:**  
