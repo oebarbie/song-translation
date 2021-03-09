@@ -10,7 +10,7 @@ has_children: true
 <img alt="Vessel" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverVessel.jpg?raw=true"> 
 </p>
 ()
-> **Альбом [Twenty one pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots) "Vessel"**  - это их первый альбом, выпущенный на лейбле [Fueled By Ramen](https://en.wikipedia.org/wiki/Fueled_by_Ramen). Альбом содержит треки, перезаписанные с их предыдущего альбома [Regional at Best](https://twentyonepilots.fandom.com/wiki/Regional_at_Best).
+> **Альбом [Twenty one pilots](https://en.wikipedia.org/wiki/Twenty_One_Pilots) "Vessel"**  - это их первый альбом, выпущенный на лейбле Fueled By Ramen. Альбом содержит треки, перезаписанные с их предыдущего альбома [Regional at Best](https://twentyonepilots.fandom.com/wiki/Regional_at_Best).
 
 > **На одном интервью Джош рассказал о значении названия альбома:**  
   _альбом называется "Vessel" (сосуд) и.. сосуд несёт в себе что-то важное, а внешняя оболочка сосуда не так важна. Суть в том, что наши тела умирают..но то, что внутри нас намного важнее, так же как и значениe или посыл песни..будут жить._
