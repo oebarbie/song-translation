@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: The Lemon Twigs  
+title: 🍋The Lemon Twigs🍋  
 nav_order: 1    
 has_children: true     
 ---  
