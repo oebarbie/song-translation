@@ -2,7 +2,7 @@
 layout: default
 title: Album Vessel  
 nav_order: 1   
-parent: Twenty One Pilots  
+parent: 🪐Twenty One Pilots🪐  
 has_children: true 
 ---  
 
