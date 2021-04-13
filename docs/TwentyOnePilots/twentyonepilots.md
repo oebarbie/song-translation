@@ -1,6 +1,6 @@
 ---
 layout: default  
-title: 🛸Twenty One Pilots🛸  
+title: 🪐Twenty One Pilots🪐  
 nav_order: 2    
 has_children: true     
 ---  
