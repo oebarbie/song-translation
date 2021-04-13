@@ -2,7 +2,7 @@
 layout: default
 title: Album Go To School
 nav_order: 1   
-parent: The Lemon Twigs
+parent: 🍋The Lemon Twigs🍋
 has_children: true 
 ---  
 

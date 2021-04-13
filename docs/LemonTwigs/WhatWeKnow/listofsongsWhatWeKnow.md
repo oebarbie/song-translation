@@ -2,7 +2,7 @@
 layout: default
 title: Album What We Know
 nav_order: 2   
-parent: The Lemon Twigs
+parent: 🍋The Lemon Twigs🍋
 has_children: true 
 ---  
 
