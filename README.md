@@ -1,4 +1,4 @@
-:trollface:
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 # [Translation Of The Songs](https://januarythirtyfirst.github.io/TranslateSongs/) 
 <p align="left">  
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/januarythirtyfirst/TranslateSongs?style=plastic">
