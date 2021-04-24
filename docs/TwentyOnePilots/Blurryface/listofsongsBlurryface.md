@@ -6,7 +6,7 @@ parent: Twenty One Pilots
 has_children: true 
 ---  
 
-Blurryface
+Twenty One Pilots / Blurryface
 ==========================
 
 <p align="center">
