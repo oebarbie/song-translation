@@ -7,5 +7,5 @@ has_children: true
 ---  
 
 <p align="center">
-<img alt="Heavydirtysoul" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverHeavydirtysoul.jpg?raw=true"> 
+<img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverBlurryface.jpg?raw=true"> 
 </p>
