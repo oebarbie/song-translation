@@ -9,5 +9,5 @@ The Lemon Twigs
 ==============
 
 <p align="center">
-<img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs3.jpg?raw=true"> 
+<img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs4.jpg?raw=true"> 
 </p> 
