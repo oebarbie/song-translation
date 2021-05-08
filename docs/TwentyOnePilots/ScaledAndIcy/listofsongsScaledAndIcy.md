@@ -1,0 +1,14 @@
+---
+layout: default
+title: Album Scaled and Icy  
+nav_order: 3   
+parent: Twenty One Pilots  
+has_children: true 
+---  
+
+Twenty One Pilots / Scaled and Icy
+==========================
+
+<p align="center">
+<img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverBlurryface.jpg?raw=true"> 
+</p>
