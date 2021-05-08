@@ -7,8 +7,6 @@ has_children: true
 ---  
 
 Twenty One Pilots / Scaled and Icy
-==========================
-
-
+=========================
 <img alt="ScaledAndIcy" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/BOrekhova-patch-1/img/coverScaledAndIcy.jpg?raw=true"> 
 
