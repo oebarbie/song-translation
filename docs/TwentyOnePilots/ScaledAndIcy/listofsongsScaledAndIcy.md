@@ -10,5 +10,5 @@ Twenty One Pilots / Scaled and Icy
 ==========================
 
 <p align="center">
-<img alt="ScaledAndIcy" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverScaledAndIcy.jpg?raw=true"> 
+<img alt="ScaledAndIcy" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/BOrekhova-patch-1/img/coverScaledAndIcy.jpg?raw=true"> 
 </p>
