@@ -11,5 +11,4 @@ Twenty One Pilots / Blurryface
 
 <p align="left">
     <img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverBlurryface.jpg?raw=true">
-    <img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/BOrekhova-patch-1/img/coverScaledAndIcy3.jpg?raw=true">
 </p>
