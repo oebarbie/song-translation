@@ -1,8 +1,8 @@
 #Main rules
 title: "translate songs"
 remote_theme: pmarsceill/just-the-docs  
-color_scheme: "dark"  
-search_enabled: false    
+color_scheme: "light"  
+search_enabled: true    
 
 # Aux links for the upper right navigation  
 aux_links:
