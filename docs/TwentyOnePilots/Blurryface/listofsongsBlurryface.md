@@ -9,6 +9,6 @@ has_children: true
 Twenty One Pilots / Blurryface
 ==========================
 
-<p align="center">
-<img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverBlurryface.jpg?raw=true"> 
+<p align="left">
+    <img alt="Blurryface" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverBlurryface.jpg?raw=true">
 </p>
