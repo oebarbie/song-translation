@@ -8,5 +8,5 @@ has_children: true
 
 Twenty One Pilots / Scaled and Icy
 =========================
-<img alt="ScaledAndIcy" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverScaledAndIcy2.jpg?raw=true"> 
+<img alt="ScaledandIcy" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverScaledAndIcy2.jpg?raw=true"> 
 
