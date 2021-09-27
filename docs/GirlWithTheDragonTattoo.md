@@ -56,3 +56,7 @@ For the detective, the "Case of the Pressed Flowers" had been nagging at him for
 
 _**26/09/2021**_
 --------------------------------------------
+
+The two men knew that whoever had mounted the flowers would have worn gloves, that there would be no fingerprints on the frame or the glass. The frame could have been bought in camera shops or stationery stores the world over. There was, quite simply, no lead to follow. Most often the parcel was posted in Stockholm, but three times from London, twice from Paris, twice from Copenhagen, once from Madrid, once from Bonn, and once from Pensacola, Florida. The detective superintendent had had to look it up in an atlas.  
+ 
+Оба собеседника знали, что тот, кто заключил цветок в рамку под стеклом, надевал перчатки и не оставлял отпечатков пальцев. Они знали, что выследить отправителя нереально: для расследования попросту не имелось никаких зацепок. Рамку могли купить в фотоателье или в канцелярском магазине в любой точке мира. Никаких улик. Почтовый штемпель менялся: чаще всего на нем значился Стокгольм, по три раза – Лондон, дважды Париж и Копенгаген, один раз Мадрид, один раз – Бонн, а однажды встретился совершенно загадочный вариант – Пенсакола, США. Если упомянутые столицы были прекрасно известны, то название Пенсакола ничего не говорило комиссару, и ему пришлось искать этот город в атласе.  
