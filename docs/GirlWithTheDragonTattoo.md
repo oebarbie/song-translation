@@ -84,11 +84,31 @@ _**04/10/2021 - 05/10/2021**_
 _**06/10/2021**_  
 ---------------------------------------------
 
-The fall of the Bear Gang gave him the star billing that launched him as a young journalist. The downside of his celebrity was that the other evening newspaper could not resist using the headline "Kalle Blomkvist solves the case." The tongue-in-cheek story was written by an older female columnist and contained references to the young detective in Astrid Lindgren's books for children. To make matters worse, the paper had run the story with a grainy photograph of Blomkvist with his mouth half open even as he raised an index finger to point.
-It made no difference that Blomkvist had never in life used the name Carl. From that moment on, to his dismay, he was nicknamed Kalle Blomkvist by his peers - an epithet employed with taunting provocation, not unfriendly but not really friendly either. In spite of his respect for Astrid Lindgren - whose books he loved - he detested the nickname. It took him several years and far weightier journalistic successes before the nickname began to fade, but he still cringed if ever the name was used in his hearing.
-
-После того как «медведей» поймали, Микаэль стал настоящей звездой. Так что для карьеры молодого журналиста эта криминальная драма пришлась как нельзя кстати. Конечно, к бочке меда примешалась и ложка дегтя – одна из двух вечерних газет не удержалась от соблазна и озаглавила репортаж не иначе как «Калле Блумквист разоблачает преступников». Автор ернической статьи, авторитетная колумнистка, как минимум дюжину раз сравнивала Микаэля с юным детективом – героем, придуманным Астрид Линдгрен.
-В довершение ко всему газета поместила не слишком удачный размытый снимок, на котором Микаэль стоял с полуоткрытым ртом и поднятым указующим перстом и, похоже, давал полицейскому в униформе какие-то инструкции. На самом деле он просто показывал дорогу к дачному туалету.
-За всю свою жизнь Микаэль Блумквист ни разу не называл себя Карлом и не подписывал статьи именем Карл Блумквист. Но какое это теперь имело значение? Ведь с тех самых пор коллеги журналисты прозвали его Калле Блумквистом, что его совсем не радовало, и произносили это имя хоть и дружелюбно, но с некоторой насмешкой. При всем уважении к Астрид Линдгрен – а ее книги Микаэль очень любил, – он ненавидел свою кличку. Прошло несколько лет, он стал известным и признанным журналистом, и это имя стало забываться. Но по-прежнему, когда кто-нибудь поблизости называл имя Калле Блумквиста, он еле сдерживался.
-
 После того, как Медвежью банду поймали, Микаэль стал молодым, популярным журналистом. Обратной стороной его популярности стало название репортажа одной вечерней газетки, а именно "Калле Блумквист разоблачает преступников". Автором этой ироничной статьи является авторитетная колумнистка, которая как минимум дюжину раз сравнивала Микаэля с юным детективом из книги Астрид Линдгрен. К довершению газета прикрепила к этой истории фотографию Блумквиста, где он стоял в полуоткрытым ртом и поднятым указующим перстоми, было похоже, что он давал полицейскому в униформе какие-то инструкции.
+
+
+_**07/10/2021**_  
+---------------------------------------------
+
+It made no difference that Blomkvist had never in life used the name Carl. From that moment on, to his dismay, he was nicknamed Kalle Blomkvist by his peers - an epithet employed with taunting provocation, not unfriendly but not really friendly either. In spite of his respect for Astrid Lindgren - whose books he loved - he detested the nickname. It took him several years and far weightier journalistic successes before the nickname began to fade, but he still cringed if ever the name was used in his hearing.
+Right now he achieved a placid smile and said to the reporter from the evening paper: "Oh come on, think of something yourself. You usually do."
+His tone was not unpleasant. They all knew each other, more or less, and Blomkvist's most vicious critics had not come that morning. One of the journalists there had at one time worked with him. And at a party some years ago he had nearly succeeded in picking up one of the reporters - the woman from She on TV4.
+"You took a real hit in there today," said the one from Dagens Nyheter, clearly a young part-timer. "How does it feel?"
+Despite the seriousness of the situation, neither Blomkvist nor the older journalists could help smiling. He exchanged glances with TV4. How does it feel? The half-witted sports reporter shoves his microphone in the face of the Breathless Athlete on the finishing line.
+"I can only regret that the court did not come to a different conclusion," he said a bit stuffily.
+"Three months in gaol and 150,000 kronor damages. That's pretty severe," said She from TV4.
+"I'll survive."
+"Are you going to apologise to Wennerstrom? Shake his hand?"
+"I think not."
+"So you still would say that he's a crook?" Dagens Nyheter.
+
+Не имело значения даже то, что Блумквист ни разу в жизни не называл себя Карл. С тех пор
+
+За всю свою жизнь Микаэль Блумквист ни разу не называл себя Карлом и не подписывал статьи именем Карл Блумквист. Но какое это теперь имело значение? Ведь с тех самых пор коллеги журналисты прозвали его Калле Блумквистом, что его совсем не радовало, и произносили это имя хоть и дружелюбно, но с некоторой насмешкой. При всем уважении к Астрид Линдгрен – а ее книги Микаэль очень любил, – он ненавидел свою кличку. Прошло несколько лет, он стал известным и признанным журналистом, и это имя стало забываться. Но по-прежнему, когда кто-нибудь поблизости называл имя Калле Блумквиста, он еле сдерживался.
+Микаэль дружелюбно улыбнулся репортеру из вечерней газеты.
+– Сам придумай что-нибудь. Ты ведь горазд сочинять всякую всячину.
+Он говорил без неприязни. Микаэль был более или менее знаком со всеми здесь присутствующими, а самые злейшие его недоброжелатели предпочли вообще сюда не приходить. С одним из репортеров он раньше вместе работал, а «Ту, с канала ТВ‑4» несколько лет назад чуть не подцепил на вечеринке.
+– Что ж, тебе задали порядочного шороху, – сказал тип из газеты «Дагенс индустри», молодой, явно из корпуса внештатных корреспондентов.
+– На самом деле, да, – признал Микаэль.
+Что поделать, иногда врать и притворяться не получается.
+– Ну и что, как ты себя чувствуешь?
