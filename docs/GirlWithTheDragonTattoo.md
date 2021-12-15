@@ -114,10 +114,24 @@ _**14/10/21**_
 Все репортёры там, кроме того практиканта из "Dagens Nyheter", были ветерам в этом бизнесе. Для них ответ на это вопрос был за пределом возможного. "Мне нечего добавить", - повторял он, когда другие отстали от него, а репортёр с TV4 стояла прямо перед дверями здания суда и задавала ему вопросы. Она была добрее, чем Блумквист того заслуживал, и его ответы были достаточны ясны, чтобы удолетворить всех репортёров, всё ещё стоящих там. Эта история будет во всех заголовках, но он напоминал себе, что всё, что случилось с ним, не самое главное событие года. Репортёры получили то, что они хотели и отправились по своим редакциям.  
 Микаэль хотел прогуляться, но это был ветреный декабрьский денёк, и он уже замёрз после интервью. Когда он спускался по лестнице суда, он увидел, как Вильям Борг выходил из машины. Должно быть, он сидел там во время интервью. Их глаза встретились, а потом Борг улыбнулся.  
 "Приехать сюда стоило того, чтобы увидеть тебя в этой бумажкой."
-
+ spareover 
 _**21/10/21**_  
 ------------------------------------------------------------  
 
 Blomkvist said nothing. Borg and Blomkvist had known each other for fifteen years. They had worked together as cub reporters for the financial section of a morning paper. Maybe it was a question of chemistry, but the foundation had been laid there for a lifelong enmity. In Blomkvist's eyes, Borg had been a third-rate reporter and a troublesome person who annoyed everyone around him with crass jokes and made disparaging remarks about the more experienced, older reporters. He seemed to dislike the older female reporters in particular. They had their first quarrel, then others, and anon the antagonism turned personal.
 
 Микаэль не ответил. Они с Уильямом Боргом знали друг друга пятнадцать лет – работали когда-то вместе внештатными сотрудниками отдела экономики одной из утренних газет. Именно тогда они и невзлюбили друг друга. Микаэль считал Борга бездарным репортером и отталкивающим, мелочным и мстительным типом, который донимал окружающих плоскими шутками и не слишком уважительно высказывался о более удачливых и опытных журналистах. Впрочем, казалось, что особенно он недолюбливал опытных журналисток. Они так и не нашли общего языка, после первой ссоры последовали дальнейшие стычки, и со временем их взаимная неприязнь стала непреодолимой.  
+
+_**15/12/21**_  
+------------------------------------------------------------  
+
+Over the years, they had run into each other regularly, but it was not until the late nineties that they became serious enemies. Blomkvist had published a book about financial journalism and quoted extensively a number of idiotic articles written by Borg. Borg came across as a pompous ass who got many of his facts upside down and wrote homages to dot-com companies that were on the brink of going under. When thereafter they met by chance in a bar in Soder they had all but come to blows. Borg left journalism, and now he worked in PR - for a considerably higher salary - at a firm that, to make things worse, was part of industrialist Hans-Erik Wennerstrom's sphere of influence.  
+They looked at each other for a long moment before Blomkvist turned on his heel and walked away. It was typical of Borg to drive to the courthouse simply to sit there and laugh at him.  
+The number 40 bus braked to a stop in front of Borg's car and Blomkvist hopped on to make his escape. He got off at Fridhemsplan, undecided what to do. He was still holding the judgement document in his hand. Finally he walked over to Kafe Anna, next to the garage entrance leading underneath the police station.
+
+Время от времени Микаэль все же сталкивался с Уильямом Боргом, но в конце 1990‑х годов они стали настоящими врагами. Блумквист написал книгу об экономической журналистике, где сплошь и рядом цитировал своих коллег. Чаще всего он приводил фрагменты из массы бездарных статей, подписанных Боргом. По версии Микаэля, тот слишком задирал нос, перевирал подавляющее большинство фактов и безмерно восхвалял дот-комы[9], вскоре ставшие на путь банкротства. А Борг, похоже, остался недоволен произведением Микаэля, и на одной из случайных встреч в одном из ресторанчиков в районе Сёдер они чуть было не подрались. Примерно тогда же Уильям оставил журналистику и теперь работал в пиар-агентстве одной из фирм. Там он получал гораздо более высокую зарплату, чем раньше, а фирма входила в сферу интересов магната Ханса Эрика Веннерстрёма.  
+Они уставились друг на друга, а потом Микаэль развернулся и пошел прочь. На такое способен только Борг – приехать к ратуше лишь ради того, чтобы злорадно посмеяться над ним.
+Микаэль даже не успел пройти несколько шагов, как перед ним остановился автобус № 40. И он поспешно забрался в него, чтобы поскорее покинуть это место.  
+Блумквист вышел на площади Фридхемсплан и задумчиво постоял на остановке, по-прежнему держа в руке приговор. Наконец он решил зайти в кафе «Анна», которое располагалось у въезда в гараж полицейского участка.
+
+За эти годы 
