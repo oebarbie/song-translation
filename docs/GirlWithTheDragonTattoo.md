@@ -118,8 +118,6 @@ _**14/10/21**_
 _**21/10/21**_  
 ------------------------------------------------------------  
 
-Blomkvist said nothing. Borg and Blomkvist had known each other for fifteen years. They had worked together as cub reporters for the financial section of a morning paper. Maybe it was a question of chemistry, but the foundation had been laid there for a lifelong enmity. In Blomkvist's eyes, Borg had been a third-rate reporter and a troublesome person who annoyed everyone around him with crass jokes and made disparaging remarks about the more experienced, older reporters. He seemed to dislike the older female reporters in particular. They had their first quarrel, then others, and anon the antagonism turned personal.
-
 Микаэль не ответил. Они с Уильямом Боргом знали друг друга пятнадцать лет – работали когда-то вместе внештатными сотрудниками отдела экономики одной из утренних газет. Именно тогда они и невзлюбили друг друга. Микаэль считал Борга бездарным репортером и отталкивающим, мелочным и мстительным типом, который донимал окружающих плоскими шутками и не слишком уважительно высказывался о более удачливых и опытных журналистах. Впрочем, казалось, что особенно он недолюбливал опытных журналисток. Они так и не нашли общего языка, после первой ссоры последовали дальнейшие стычки, и со временем их взаимная неприязнь стала непреодолимой.  
 
 _**17/12/21**_  
