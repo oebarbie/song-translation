@@ -1,5 +1,5 @@
 # Translation Of The Songs
-site: [link](https://borekhova.github.io/TranslateSongs/)
+here is the [link](https://borekhova.github.io/TranslateSongs/) to the site;)
 
 <p align="left">  
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/januarythirtyfirst/TranslateSongs?style=plastic">
