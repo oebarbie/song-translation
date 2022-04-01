@@ -6,5 +6,3 @@ has_toc: true
 ---  
 
 <img src="http://ghchart.rshah.org/BOrekhova" alt="BOrekhova's Github chart" />
-
-my name is ...
