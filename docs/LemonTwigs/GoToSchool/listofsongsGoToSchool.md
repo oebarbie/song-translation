@@ -12,5 +12,6 @@ has_children: true
 <img alt="Go To School" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/coverGoToSchool.jpg?raw=true"> 
 </p> 
 
+###### Go to School, the sophomore album by Long Island duo the Lemon Twigs, is a musical about a monkey, but there’s a twist: It’s actually about us.
 ##### Go to School – мюзикл о шимпанзе-первокласснике, написанный двумя молодыми людьми, чей эмоциональный возраст нужно мерить специальным инструментом, чем-то между микроскопом и телескопом. 
 ##### Понятно, что Go to School совсем не об обезьяне. Альбом поднимает разные архетипы людей, которых мы так или иначе проходим на любом этапе жизни. Go to School – диковинное произведение о взрослении и аутсайдерстве.
