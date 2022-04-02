@@ -13,5 +13,3 @@ has_children: true
 </p> 
 
 ###### Twenty One Pilots is an American musical duo. The line-up has consisted of Joseph and drummer Josh Dun.
-
-###### 
