@@ -9,7 +9,7 @@ has_children: true
 
 
 <p align="center">
-<img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs4.jpg?raw=true"> 
+<img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs.jpg?raw=true"> 
 </p> 
 
 ###### The Lemon Twigs are an American rock band from Long Island, New York, fronted by brothers Brian and Michael D'Addario. Both brothers are vocalists, songwriters and multi-instrumentalists.
