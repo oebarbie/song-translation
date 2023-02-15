@@ -8,7 +8,7 @@ has_children: true
 ## The Lemon Twigs
 
 
-<p align="center">
+<p align="left">
 <img alt="The Lemon Twigs" src="https://github.com/januarythirtyfirst/TranslateSongs/blob/main/img/photoLemonTwigs.jpg?raw=true"> 
 </p> 
 
