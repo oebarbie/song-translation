@@ -1,4 +1,6 @@
 <img src="https://github.com/oebarbie/TranslateSongs/blob/9e08f24c18e5f3ce5b3fa1e24b1bd4fc71d67324/image/4.jpg" height="100">
+<img src="https://github.com/oebarbie/TranslateSongs/blob/9e08f24c18e5f3ce5b3fa1e24b1bd4fc71d67324/image/3.jpg" height="100">
+<img src="https://github.com/oebarbie/TranslateSongs/blob/9e08f24c18e5f3ce5b3fa1e24b1bd4fc71d67324/image/1.jpg" height="100">
 
 # Translation Of The Songs
 
